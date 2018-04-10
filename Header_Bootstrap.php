@@ -4,7 +4,7 @@ Component Name: Header Bootstrap
 Description: Header Bootstrap Component
 Category: Layout
 Tags: Header
-Version: 1.0
+Version: 1.0.0
 Author: WAGA Team <dev@waga.it>
 Author URI: http://www.waga.it
 */
